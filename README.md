@@ -1,7 +1,1 @@
-# git-demo
-
-here is my first git repo
-
-
-sub hadder
- 
+My name is harshit Gupta
